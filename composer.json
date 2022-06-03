@@ -1,0 +1,21 @@
+{
+  "name"        : "themevan/cmb2-toggle",
+  "description" : "CMB@ Toggle field",
+  "keywords"    : [ "theme" ],
+  "homepage"    : "https://github.com/themevan/cmb2-toggle",
+  "license"     : "MIT",
+  "authors"     : [
+    {
+      "name"     : "Theme Van",
+      "email"    : "themevanofficial@gmail.com",
+      "homepage" : "https://themevan.com/",
+      "role"     : "Developer"
+    }
+  ],
+  "support"     : {
+    "issues" : "https://github.com/themevan/cmb2-toggle/issues"
+  },
+  "require"     : {
+    "php" : ">=5.6"
+  }
+}
