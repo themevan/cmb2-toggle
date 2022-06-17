@@ -4,8 +4,8 @@
  * Plugin URI: https://github.com/themevan/cmb2-toggle/
  * Description: CMB2 toggle field.
  * Author: ThemeVan
- * Version: 1.0.1
- * Author URI: http://themevan.com/
+ * Version: 1.0.2
+ * Author URI: https://themevan.com/
  * Requires at least: 5.4
  * Tested up to: 6.0
  * Requires PHP: 5.6
